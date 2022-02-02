@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2k4PqLRgCe+dGCNtjXq2daZrW6waNu4XkDUr/yLkJK38MyoKLZnz0rTCOQkOYzKjDAU/r2J/9eiPJK+x1Yg3rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\odev1-algoritma-soruları\\soru2\\soru2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

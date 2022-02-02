@@ -1,0 +1,16 @@
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\bin\Debug\net5.0\soru2.exe
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\bin\Debug\net5.0\soru2.deps.json
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\bin\Debug\net5.0\soru2.runtimeconfig.json
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\bin\Debug\net5.0\soru2.runtimeconfig.dev.json
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\bin\Debug\net5.0\soru2.dll
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\bin\Debug\net5.0\ref\soru2.dll
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\bin\Debug\net5.0\soru2.pdb
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.csproj.AssemblyReference.cache
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.AssemblyInfoInputs.cache
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.AssemblyInfo.cs
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.csproj.CoreCompileInputs.cache
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.dll
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\ref\soru2.dll
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.pdb
+C:\Users\okans\Desktop\pratikler\odev1-algoritma-soruları\soru2\obj\Debug\net5.0\soru2.genruntimeconfig.cache
